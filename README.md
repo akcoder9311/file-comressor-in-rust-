@@ -1,4 +1,4 @@
-# rust_projects
+git branch -M main# rust_projects
 this is file compressor file 
 it takes a input file from cli give us as an output compressed file
 

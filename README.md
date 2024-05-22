@@ -1,4 +1,4 @@
-# TheFile Compressor
+# The File Compressor
 This Rust project is a command-line application that compresses files using the `flate2` crate. It reads an input file, compresses it using `Gzip`, and writes the compressed data to an output file.
 
 ## Features

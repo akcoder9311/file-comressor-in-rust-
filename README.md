@@ -8,7 +8,6 @@ This Rust project is a command-line application that compresses files using the 
 
 ## Prerequisites
 Before running this project, ensure you have the following installed:
-
 `Rust`
 
 ## Getting Started
@@ -17,11 +16,12 @@ Before running this project, ensure you have the following installed:
 
 `cd rust-file-compressor`
 
-#### Build the Project
+### Build the Project
 #### Build the project using Cargo: 
 cargo build --release
 
-#### Running the Application
+
+### Running the Application
 #### Run the application with the required arguments:
 cargo run --release -- <input_file> <compressed_file>
 
